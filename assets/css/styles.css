@@ -361,8 +361,8 @@ body.light-theme {
 }
 
 .home__social {
-  bottom: 4rem;
-  left: 8rem;
+  bottom: 5rem;
+  left: 2rem;
   display: grid;
   row-gap: 0.5rem;
 }
@@ -393,8 +393,8 @@ body.light-theme {
 
 .home__scroll {
   color: var(--first-color);
-  right: 8rem;
-  bottom: 4rem;
+  right: 0rem;
+  bottom: 6rem;
   display: grid;
   row-gap: 2.25rem;
   justify-items: center;
