@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahladgaur&label=Profile%20views&color=0e75b6&style=flat" alt="prahladgaur" /> </p>
 
-- 🔭 I’m currently working on [iNoteBook](https://github.com/prahladgaur/itodo)
+- 🔭 I’m currently pursuing BCA from Amity University, Gwalior.
 
 - 🌱 I’m currently learning **MERN Stack**
 
