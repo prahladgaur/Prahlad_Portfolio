@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahladgaur&label=Profile%20views&color=0e75b6&style=flat" alt="prahladgaur" /> </p>
 
-- 🔭 I’m currently pursuing BCA from Amity University, Gwalior.
+- 🔭 I’m currently pursuing **BCA** from **Amity University, Gwalior**.
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://prahladgaur.github.io/Prahlad_Portfolio/](https://prahladgaur.github.io/Prahlad_Portfolio/)
 
-- 💬 Ask me about **React,MERN,C++**
+- 💬 Ask me about **React, MERN, C++**
 
 - 📫 How to reach me **prahladgaur0711@gmail.com**
 
